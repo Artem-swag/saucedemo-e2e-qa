@@ -2,9 +2,8 @@
 
 ## Источник задания
 Тестовое задание QA для стажёра/junior.  
-**Компания:** [название компании]  
-**Год:** [год]  
-**Ссылка:** [ссылка на исходное задание]
+**Компания:** Effective Mobile  
+**Ссылка:** https://github.com/Hexlet/ru-test-assignments/blob/main/qa/effective-mobile/README.md
 
 ## Что сделано
 - E2E UI сценарий: авторизация → добавление «Sauce Labs Backpack» → корзина → checkout → подтверждение успеха.
