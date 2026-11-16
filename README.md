@@ -2,7 +2,8 @@
 
 ## Источник задания
 Тестовое задание QA для стажёра/junior.  
-**Компания:** Effective Mobile  
+**Компания:** Effective Mobile 
+**Год:** 2026 
 **Ссылка:** https://github.com/Hexlet/ru-test-assignments/blob/main/qa/effective-mobile/README.md
 
 ## Что сделано
