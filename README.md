@@ -25,5 +25,24 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone <repo-url>
+git clone https://github.com/Artem-swag/saucedemo-e2e-qa.git
 cd saucedemo-e2e-qa
+```
+
+### 2. Установить зависимости
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 3. Установить браузер для Playwright
+```bash
+playwright install chromium
+```
+
+### 4. Запустить тесты
+```bash
+pytest
+pytest --headed
+```
