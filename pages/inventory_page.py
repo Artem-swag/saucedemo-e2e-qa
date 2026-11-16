@@ -4,7 +4,7 @@ from playwright.sync_api import Page, expect
 class InventoryPage:
     def __init__(self, page: Page):
         self.page = page
-        self.cart_link = page.locator(".shopping_cart_link")
+        self.cart_link = page.locator("#shopping_cart_container a")
         self.cart_badge = page.locator(".shopping_cart_badge")
 
     def add_product_to_cart(self, product_name: str):
